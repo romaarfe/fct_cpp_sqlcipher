@@ -1,2 +1,5 @@
-# fct_cpp_sqlcipher
-Projeto para FCT - Criar base de dados em C++ com SQLite e encriptar com SQLCipher
+## CRIAÇÃO DE BASE DE DADOS, TABELA, INSERÇÃO DE DADOS E CONSULTA
+## CRIADO EM C++ COM SQLITE E ENCRIPTADO COM SQLCIPHER
+
+### Desenvolvido na SDILab (Balanças Marques)
+#### Projeto para FCT - IEFP
