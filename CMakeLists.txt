@@ -5,15 +5,16 @@ project(Teste LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(CriarBD criar_bd.cpp)
-add_executable(CriarTabela criar_tabela.cpp)
-add_executable(InserirInfo inserir_info.cpp)
-add_executable(Apresentar apresentar.cpp)
+set(PROJECT_SOURCES
+    criar_bd.cpp
+    criar_tabela.cpp
+    inserir_info.cpp
+    apresentar.cpp
+    main.cpp
+)
 
-target_link_libraries(CriarBD sqlcipher)
-target_link_libraries(CriarTabela sqlcipher)
-target_link_libraries(InserirInfo sqlcipher)
-target_link_libraries(Apresentar sqlcipher)
+add_executable(PROJECT_SOURCES
+    ${PROJECT_SOURCES})
 
 #install(TARGETS CriarBD
 #    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
