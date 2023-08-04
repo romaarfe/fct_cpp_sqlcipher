@@ -1,9 +1,9 @@
 <h3 align="center"> 
-  🚧 Projeto Teste 🚧
+  🚧 PROJETO TESTE 🚧
 </h3>
 
 ---
-#### ⚙️ Funcionalidades:
+#### ⚙️ FUNCIONALIDADES:
 
 - [x] Criação de base de dados
 - [x] Criação de tabelas
@@ -11,7 +11,7 @@
 - [x] Realização de consultas
 
 ---
-#### 🔧 Ferramentas:
+#### 🔧 FERRAMENTAS:
 
 - C++
 - CMake
