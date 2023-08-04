@@ -1,6 +1,7 @@
-<h4 align="center"> 
+<h3 align="center"> 
   🚧 Projeto para Formação em Contexto de Trabalho - IEFP 🚧
-</h4>
+</h3>
+
 ---
 #### ⚙️ Funcionalidades:
 - [x] Criação de base de dados
