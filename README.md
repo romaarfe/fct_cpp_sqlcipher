@@ -11,11 +11,11 @@
 
 ---
 #### 🔧 Ferramentas:
-- 1. C++
-- 2. CMake
-- 3. SQLite
-- 4. SQLCipher
-- 5. QT Framework
+- C++
+- CMake
+- SQLite
+- SQLCipher
+- QT Framework
 
 ---
 ##### 👨‍💻 Desenvolvido na SDILAB - Research & Software Development 
