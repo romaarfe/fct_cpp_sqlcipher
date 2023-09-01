@@ -17,6 +17,7 @@
 - CMake
 - SQLite
 - SQLCipher
+- QT Creator
 - QT Framework
 
 ---
